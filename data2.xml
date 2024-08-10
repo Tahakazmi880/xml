@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="Display.css" type="text/css"?>
+
+<cars>
+<vehicle id="1" class="one">
+<manufacturer>Haval</manufacturer>
+<model>H6</model>
+<year>2018</year>
+<price>1,25,00000</price>
+<color>White</color>
+<location>Pakistan</location>
+</vehicle>
+
+<vehicle id="2" class="two">
+<manufacturer>Haval</manufacturer>
+<model>H6</model>
+<year>2024</year>
+<type>Hybird</type>
+<price>1,25,00000</price>
+<color>White</color>
+<location>Pakistan</location>
+</vehicle>
+</cars>
+
+

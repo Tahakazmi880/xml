@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<?xml version ="1.0" encoding="UTF-8"?>
+<Aptech>
+<Student id="1">
+<Name>Taha kazmi</Name>
+<Email>Tahakazmi880@gmail.com</Email>
+<Phone>0336101510</Phone>
+<Age>19</Age>
+<Gender>Male</Gender>
+</Student>
+
+<Student id="2"> 
+<Name>Ashal Abbas</Name>
+<Email>ashalabbas66@gmail.com</Email>
+<Phone>0314163215</Phone>
+<Age>19</Age>
+<Gender>Male</Gender>
+</Student>
+
+<Student id="3">
+<Name>Azlan kazmi</Name>
+<Email>azlankazmi680@gmail.com</Email>
+<Phone>03322344931</Phone>
+<Age>19</Age>
+<Gender>Male</Gender>
+</Student>
+</Aptech>
+
